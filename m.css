@@ -1,0 +1,60 @@
+body { padding-top: 50px; 
+}
+#myCarousel .carousel-caption {
+    left:0;
+	right:0;
+	bottom:0;
+	text-align:left;
+	padding:10px;
+	background:rgba(0,0,0,0.5);
+	text-shadow:none;
+}
+ 
+#myCarousel .list-group {
+	position:absolute;
+	top:0;
+	right:0;
+}
+#myCarousel .list-group-item {
+	border-radius:2px;
+	cursor:pointer;
+}
+#myCarousel .list-group .active {
+	background-color:#eee;	
+}
+ 
+@media (min-width: 992px) { 
+	#myCarousel {padding-right:33.3333%;}
+	#myCarousel .carousel-controls {display:none;} 	
+}
+@media (max-width: 991px) { 
+	.carousel-caption p,
+	#myCarousel .list-group {display:none;} 
+}
+.container {
+    margin-top: 20px;
+}
+.one
+{
+	height: 160px;
+	width: 550px;
+	position: relative;
+	margin-left: 106px;
+}
+  /*<div class="panel panel-default">
+    <div class="panel-heading">Panel Heading</div>
+    <div class="panel-body">Panel Content</div>
+  </div> <div class="panel-body">This is one of the several arguments made by the scholar in an attempt to blame India for sending its troops to the disputed Doklam area. India has responded to efforts by China to build a road in the Doklam area, which falls next to the trijunction connecting Sikkim with Tibet and Bhutan and puts Indian territory at risk.hjbknmsamsnxnnjd hdsdjhshdhjs </div>
+</div>
+</div><div class="panel panel-default">
+    <div class="panel-heading">Panel Heading</div>
+    <div class="panel-body">Panel Content</div>
+  </div>
+
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">Panel Heading</div>
+    <div class="panel-body">Panel Content</div>
+  </div>
+</div>
+</div>
